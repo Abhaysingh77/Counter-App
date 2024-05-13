@@ -1,0 +1,16 @@
+*{
+  font-family: sans-serif;
+}
+.container{
+  width: 20vw;
+  height: 40vh;
+  margin: auto;
+  padding: 2%;
+  margin: 2%;
+}
+button{
+  width: max-content;
+  height: max-content;
+  border-radius: 6px;
+  margin: 1%;
+}
